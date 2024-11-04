@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CaseCobra - A Modern Fullstack E-Commerce Shop for Custom Phone Cases
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
@@ -38,3 +39,6 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# next-app
+>>>>>>> 5e03f56fece49277eb65cf3c430adabdfd940e70
